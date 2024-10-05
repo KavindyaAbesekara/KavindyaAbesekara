@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently working on **LatexHarvesting**
 
-- 🌱 I’m currently learning **Java HTML CSS**
+- 🌱 I’m currently learning **Node js, express js, kotlin , Mongo db**
 
 - 👯 I’m looking to collaborate on **LatexHarvesting**
+  
+- ⚡ Fun fact **I think I am funny**
 
 - 📫 How to reach me **kavindyasubhashini@gmail.com**
 
